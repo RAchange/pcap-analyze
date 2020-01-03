@@ -7,5 +7,5 @@ $ make
 
 ## Implement
 ```
-./hw3 <network interface> <pcap file>
+./hw3 -r <pcap_filename>
 ```
